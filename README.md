@@ -1,0 +1,2 @@
+# jimmy-js
+Learning javascript 
